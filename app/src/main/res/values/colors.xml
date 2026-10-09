@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0B1020</color>
+    <color name="colorPrimaryDark">#080C18</color>
+    <color name="colorAccent">#6C63FF</color>
+    
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    
+    <!-- UI Colors -->
+    <color name="bg_main">#000000</color>
+    <color name="card_bg">#151B2E</color>
+    <color name="input_bg">#000000</color>
+    <color name="accent_gold">#6C63FF</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#9AA6C1</color>
+    <color name="divider">#26304A</color>
+    
+    <!-- Status Colors -->
+    <color name="status_safe">#6C63FF</color>
+    <color name="status_ready">#48D597</color>
+
+    <!-- Legacy / Compat -->
+    <color name="primaryText">#FFFFFF</color>
+    <color name="hintText">#9AA6C1</color>
+    <color name="darker_gray">#9AA6C1</color>
+    <color name="button">#6C63FF</color>
+    <color name="buttonPrimary">#6C63FF</color>
+    <color name="primary">#000000</color>
+    <color name="primaryVariant">#151B2E</color>
+    <color name="secondary">#151B2E</color>
+    <color name="background">#0B1020</color>
+    <color name="background2">#151B2E</color>
+    <color name="error">#FF6B81</color>
+    <color name="secondary2">#151B2E</color>
+</resources>

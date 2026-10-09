@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base App Theme -->
+    <style name="Base.AppTheme" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <!-- Primary Colors -->
+        <item name="colorPrimary">#0B1020</item>
+        <item name="colorOnPrimary">#F7F8FF</item>
+
+        <!-- Background -->
+        <item name="android:colorBackground">#0B1020</item>
+
+        <!-- Status Bar -->
+        <item name="android:statusBarColor">#0B1020</item>
+        <item name="android:navigationBarColor">#0B1020</item>
+
+    </style>
+
+    <!-- Bottom Navigation Active Indicator -->
+    <style name="ActiveIndicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">@color/accent_gold</item>
+    </style>
+
+    <!-- Custom Checkbox -->
+    <style name="CustomCheckbox02" parent="Widget.AppCompat.CompoundButton.CheckBox">
+
+        <item name="android:button">@drawable/checkbox_selector</item>
+        <item name="android:background">@android:color/transparent</item>
+
+        <!-- Tint clean -->
+        <item name="android:buttonTint">@color/accent_gold</item>
+
+    </style>
+
+</resources>

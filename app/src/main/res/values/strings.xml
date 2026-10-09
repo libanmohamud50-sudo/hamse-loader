@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hamse Cheats VIP Loader</string>
+    <string name="main_title">Hamse Cheats VIP Loader</string>
+    <string name="login_title">Hamse Cheats VIP Loader</string>
+    <string name="copyright">© 2026 Hamse Cheats VIP Loader</string>
+    <string name="subtitle">Premium Edition</string>
+    <string name="owner">@hamsecheatsvip</string>
+    <string name="channel">HAMSECHEATS</string>
+    <string name="side_sheet_behavior">com.google.android.material.sidesheet.SideSheetBehavior</string>
+    <string name="spinbutton_description">Spin Button</string>
+    <string name="state_busy_description">busy</string>
+    <string name="state_collapsed_description">collapsed</string>
+    <string name="state_expanded_description">expanded</string>
+    <string name="state_mixed_description">mixed</string>
+    <string name="state_off_description">off</string>
+    <string name="state_on_description">on</string>
+    <string name="state_unselected_description">unselected</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_description">Summary</string>
+    <string name="tablist_description">Tab List</string>
+    <string name="timer_description">Timer</string>
+    <string name="toolbar_description">Tool Bar</string>
+</resources>
