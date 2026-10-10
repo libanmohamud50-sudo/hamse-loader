@@ -13,7 +13,7 @@ class Scrambler {
 Scrambler scrambler = new Scrambler()
 
 android {
-    namespace 'com.hamse.cheats.vip'
+    namespace 'com.xlox'
     compileSdk 34
     
     signingConfigs {
@@ -31,7 +31,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.hamse.cheats.vip"
+        applicationId "com.xlox"
         minSdk 21
         //noinspection OldTargetApi,EditedTargetSdkVersion,ExpiredTargetSdkVersion
         targetSdk 28
@@ -77,8 +77,6 @@ android {
         targetCompatibility JavaVersion.VERSION_1_8
     }
     
-    
-    }
 
     buildFeatures {
         viewBinding true
