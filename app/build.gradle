@@ -14,6 +14,7 @@ Scrambler scrambler = new Scrambler()
 
 android {
     namespace 'com.xlox'
+    namespace 'com.xlox'
     compileSdk 34
     
     signingConfigs {
